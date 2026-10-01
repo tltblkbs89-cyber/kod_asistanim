@@ -1,1 +1,1 @@
-# kod_asistanim
+3 sayıyı klavyeden girip ortalamasını ekrana yazdıran kod
